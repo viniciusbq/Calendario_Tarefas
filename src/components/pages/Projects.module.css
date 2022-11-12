@@ -1,0 +1,27 @@
+.project_container {
+  padding: 2em;
+  width: 100%;
+}
+.SearchBar {
+  padding: 10px;
+}
+.bar {
+  padding: 10px;
+  width: 300px;
+}
+.title_container {
+  justify-content: space-between;
+  margin: 1em;
+}
+h1 {
+  border-top: 1px solid grey;
+  width: 100%;
+  margin-right: 100px;
+}
+
+@media (max-width: 900px) {
+  .project_container {
+    margin-left: 0px;
+    padding: 0;
+  }
+}
