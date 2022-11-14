@@ -100,7 +100,7 @@ function Projects() {
             onChange={handleChange}
           />
         </div>
-        <LinkButton to="/newproject" text="Criar projeto" />
+        <LinkButton to="/newproject" text="Criar Tarefa" />
         <div className="container-lis">
           <ul>
             {repos.map((repo, index) => (
