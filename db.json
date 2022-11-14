@@ -1,14 +1,3 @@
 {
-  "projects": [
-    {
-      "name": "23123",
-      "description": "123213",
-      "date": "0323-02-11",
-      "hour": "12:31",
-      "budget": "12332",
-      "cost": 0,
-      "services": [],
-      "id": 4
-    }
-  ]
+  "projects": [ ]
 }
